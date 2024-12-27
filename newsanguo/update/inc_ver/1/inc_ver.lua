@@ -1,0 +1,15 @@
+return {
+["src/main.luac"] = {file = "main.luac", ver = 1, size = 3581,},
+["src/config/holiday_valentine_boss_data.luac"] = {file = "holiday_valentine_boss_data.luac", ver = 1, size = 9185,},
+["src/game/action/view/action_white_day_panel.luac"] = {file = "action_white_day_panel.luac", ver = 1, size = 16197,},
+["src/game/action/view/action_main_window.luac"] = {file = "action_main_window.luac", ver = 1, size = 10653,},
+["src/game/mainui/icon/function_icon_vo.luac"] = {file = "function_icon_vo.luac", ver = 1, size = 5893,},
+["src/game/role/role_controller.luac"] = {file = "role_controller.luac", ver = 1, size = 59793,},
+["src/config/charge_data.luac"] = {file = "charge_data.luac", ver = 1, size = 104125,},
+["src/sys/net/gamenet.luac"] = {file = "gamenet.luac", ver = 1, size = 13933,},
+["src/game/story/story_controller.luac"] = {file = "story_controller.luac", ver = 1, size = 2641,},
+["src/inspect.luac"] = {file = "inspect.luac", ver = 1, size = 10097,},
+["src/sdk_function.luac"] = {file = "sdk_function.luac", ver = 1, size = 47221,},
+["src/config/recruit_holiday_lucky_data.luac"] = {file = "recruit_holiday_lucky_data.luac", ver = 1, size = 33597,},
+["src/game/elitesummon/elitesummon_controller.luac"] = {file = "elitesummon_controller.luac", ver = 1, size = 5749,},
+}
