@@ -1,3 +1,0 @@
-{
-  "apiBaseUrl": "https://zhy06.2ri73f31up.icu/"
-}
